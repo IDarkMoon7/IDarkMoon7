@@ -2,7 +2,7 @@ Olá, eu sou a Keite!
 
 Bem-vindo(a) ao meu espaço no GitHub! 
 
-Sou graduada em Engenharia Ambiental e Sanitária e, atualmente, estudo Engenharia de Computação na UNIVESP. Sou Love, Love por tecnologia, com um foco especial em Inteligência Artificial, análise de dados e infraestrutura em nuvem.
+Sou bacharel em Engenharia Ambiental e Sanitária e, atualmente, estudo Engenharia de Computação na UNIVESP. Sou Love, Love por tecnologia, com um foco especial em Inteligência Artificial, análise de dados e infraestrutura em nuvem.
 Atualmente, tenho a honra de atuar como Embaixadora da DIO (15ª Edição), onde aprendo, compartilho conhecimentos e desenvolvo projetos práticos para solucionar problemas reais da comunidade tech.
 
 🛠️ Minhas Áreas de Foco e Tecnologias Atuais
