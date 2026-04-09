@@ -1,4 +1,5 @@
-Olá, eu sou a Keite! 👋🚀
+Olá, eu sou a Keite!
+
 Bem-vindo(a) ao meu espaço no GitHub! 
 
 Sou formada em Engenharia Ambiental e Sanitária e, atualmente, estudo Engenharia de Computação na UNIVESP. Sou apaixonada por tecnologia, com um foco especial em Inteligência Artificial, análise de dados e infraestrutura em nuvem.
